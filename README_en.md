@@ -115,7 +115,7 @@ If you find this project useful, don't forget to star 🌟. Your support is my m
                         🧰
             </td>
             <td>2023-04-24</td>
-            <td></td>
+            <td>Как текст работает нормально, англ. язык</td>
         </tr>
         <tr>
             <td>6</td>
